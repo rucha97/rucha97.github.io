@@ -1,17 +1,19 @@
-title: Rucha Shende # your name (or website title) here
+title: Rucha Shende
 logo: "/images/photo-portfolio.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  ###
-  Hello, I am currently pursuing my Master's in Computer Science at Concordia University, Montreal, Canada. 
-  I am working on my thesis and aiming to graduate soon. My research is focused on constructing a UAV dataset and exploring
-  3D reconstruction/modelling of buildings using computer vision techniques.   
-  <br><br>
+<br>
+Hello, I am a Master's in Computer Science at Concordia University, Montreal; 
+currently working on my thesis and aiming to graduate soon. 
+My research is focused on constructing a UAV dataset and exploring computer vision techniques for 
+3D reconstruction of buildings.   
+<br><br>
+Throughout my academic journey, I have been honing my skills in traditional machine learning and generative AI. 
+Additionally, I have two years of industry experience in software development. (Salesforce).
+<br><br>
+<a href="https://www.linkedin.com/in/rucha-shende/">View My LinkedIn Profile</a> 
 
-  I have been continuously honing my skills in traditional machine learning and generative AI. 
-  <br><br>
-  <a href="https://www.linkedin.com/in/rucha-shende/">View My LinkedIn Profile</a> 
-  
 remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+colors:
+  crimson: '#900C3F'
+
