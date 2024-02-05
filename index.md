@@ -12,8 +12,8 @@
 - Plays a crucial role in the conservation and digital twinning of heritage structures, aiming to contribute towards fostering a sustainable digital future.
 
   [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)  [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)](#)
----
 
+---
 ## Academic Projects
 
 #### Predict employee retention - HR Analytics: [Github](https://github.com/rucha97/few-shot-learning-PneumoniaMNIST)
