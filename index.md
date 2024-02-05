@@ -16,7 +16,7 @@
 ---
 ## Academic Projects
 
-#### Predict employee retention - HR Analytics: [Github](https://github.com/rucha97/few-shot-learning-PneumoniaMNIST)
+#### Predict employee retention - HR Analytics: [Github](https://github.com/rucha97/HR_Analytics)
 - Conducted training and evaluation of multiple supervised machine learning algorithms for predicting employee retention.
 - Applied feature engineering techniques to identify and select high-impact features influencing employee decisions.
 
