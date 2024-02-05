@@ -1,11 +1,6 @@
-<a href="https://www.linkedin.com/in/rucha-shende/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>  
-
-<a href="https://github.com/rucha97">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</a>  
-              
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rucha-shende/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rucha97)
+       
 ---
 
 ## Research Work - Master's Thesis
@@ -25,15 +20,14 @@
 - Conducted training and evaluation of multiple supervised machine learning algorithms for predicting employee retention.
 - Applied feature engineering techniques to identify and select high-impact features influencing employee decisions.
 
-  [View on Github](https://github.com/rucha97/HR_Analytics)
   [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](#) [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](#) [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](#) [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](#) [![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](#)
 
 ---
 #### Few-shot Learning with Limited Data: [Github](https://github.com/rucha97/few-shot-learning-PneumoniaMNIST)
 - This project involved using a limited and arbitrary sample from the PneumoniaMNIST dataset.
-- Worked on data augmentation, attention modules, transfer learning. 
-  
- 	[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#) [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#)
+- Worked on data augmentation, attention modules, transfer learning.
+
+  [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#) [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#)
 
 ---
 #### Facial Mask Detector: [Github](https://github.com/rucha97/mask-detector)
