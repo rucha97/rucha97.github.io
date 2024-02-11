@@ -1,6 +1,6 @@
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rucha-shende/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rucha97)
-       
+<a href="https://www.linkedin.com/in/rucha-shende/" class="header-link" target="_blank">LinkedIn</a>
+<a href="https://github.com/rucha97" class="header-link github" target="_blank">GitHub</a>
+
 ---
 
 ## Research Work - Master's Thesis
