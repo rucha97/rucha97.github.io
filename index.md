@@ -28,6 +28,7 @@
 - This project involved using a limited and arbitrary sample from the PneumoniaMNIST dataset.
 - Assessed if combinations of augmentation techniques previously implemented increase the network's performance by data preprocessing and augmentation, integration of attention modules into a CNN model. 
 - Applied transfer learning by finetuning different models achieved 3.45\% accuracy improvement over benchmarking using AlexNet.
+
   [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#) [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#)
 
 ---
