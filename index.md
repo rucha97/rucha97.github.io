@@ -17,20 +17,22 @@
 ## Academic Projects
 
 #### Predict employee retention - HR Analytics: [Github](https://github.com/rucha97/HR_Analytics)
+- Performed data pre-processing and feature engineering techniques on employee data, identifying key factors influencing their job decisions.
 - Conducted training and evaluation of multiple supervised machine learning algorithms for predicting employee retention.
-- Applied feature engineering techniques to identify and select high-impact features influencing employee decisions.
+- Achieving a peak accuracy of 94.78\% using Support Vector Machine (SVM) algorithm.
 
   [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](#) [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](#) [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](#) [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](#) [![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](#)
 
 ---
 #### Few-shot Learning with Limited Data: [Github](https://github.com/rucha97/few-shot-learning-PneumoniaMNIST)
 - This project involved using a limited and arbitrary sample from the PneumoniaMNIST dataset.
-- Worked on data augmentation, attention modules, transfer learning.
-
+- Assessed if combinations of augmentation techniques previously implemented increase the network's performance by data preprocessing and augmentation, integration of attention modules into a CNN model. 
+- Applied transfer learning by finetuning different models achieved 3.45\% accuracy improvement over benchmarking using AlexNet.
   [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#) [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#)
 
 ---
 #### Facial Mask Detector: [Github](https://github.com/rucha97/mask-detector)
+- Generated a new dataset of 4k images by collecting, pre-processing and performing data-augmentation of facial images.
 - Trained and fine-tuned a CNN for facial mask detection and type classification.
 - Eliminated bias and improved model performance using k-fold cross-validation.
  
