@@ -6,6 +6,8 @@
 ## Research Work - Master's Thesis
 
 #### 3D Reconstruction of Heritage Buildings
+![image](https://github.com/rucha97/rucha97.github.io/assets/22785512/21e80c90-e382-4399-99fe-3705ec1bec4c)
+
 
 - Centered on developing a novel automated workflow for generating Level of Detail (LOD) models of heritage buildings in Montreal. This workflow incorporates both traditional and deep learning-based computer vision techniques and models.
 - Extends to collecting UAV data, generating point clouds, and their subsequent post-processing. The dataset is soon to be open-sourced, aiming to facilitate further research in this field.
@@ -27,6 +29,7 @@
 
 ---
 #### Few-shot Learning with Limited Data: [Github](https://github.com/rucha97/few-shot-learning-PneumoniaMNIST)
+![pneumonia_fewshot](https://github.com/rucha97/rucha97.github.io/assets/22785512/43c07fa0-6ab5-49d3-af02-9184f74e7aa1)
 
 - This project involved using a limited and arbitrary sample from the PneumoniaMNIST dataset.
 - Assessed if combinations of augmentation techniques previously implemented increase the network's performance by data preprocessing and augmentation, integration of attention modules into a CNN model. 
@@ -46,6 +49,7 @@
 
 ---
 #### Book Recommendation System: [Github](https://github.com/rucha97/book-recommendation-system)
+![book_rec](https://github.com/rucha97/rucha97.github.io/assets/22785512/11bf5101-490f-48ab-b6f1-0ddcb84e38d9)
 
 - Developed a recommender using goodbooks dataset of 10k records to suggest books of interest and predict user ratings.
 - Used Apache PySpark for Content-based and Collaborative Filtering approaches, including one-hot encoding and matrix factorization for latent feature identification.
