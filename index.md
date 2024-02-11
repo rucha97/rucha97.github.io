@@ -17,6 +17,8 @@
 ## Academic Projects
 
 #### Predict employee retention - HR Analytics: [Github](https://github.com/rucha97/HR_Analytics)
+![hr_analytics](https://github.com/rucha97/rucha97.github.io/assets/22785512/fb41983f-2e64-4914-9866-8ba510373730)
+
 - Performed data pre-processing and feature engineering techniques on employee data, identifying key factors influencing their job decisions.
 - Conducted training and evaluation of multiple supervised machine learning algorithms for predicting employee retention.
 - Achieving a peak accuracy of 94.78\% using Support Vector Machine (SVM) algorithm.
@@ -25,6 +27,7 @@
 
 ---
 #### Few-shot Learning with Limited Data: [Github](https://github.com/rucha97/few-shot-learning-PneumoniaMNIST)
+
 - This project involved using a limited and arbitrary sample from the PneumoniaMNIST dataset.
 - Assessed if combinations of augmentation techniques previously implemented increase the network's performance by data preprocessing and augmentation, integration of attention modules into a CNN model. 
 - Applied transfer learning by finetuning different models achieved 3.45% accuracy improvement over benchmarking using AlexNet.
@@ -33,7 +36,9 @@
 
 ---
 #### Facial Mask Detector: [Github](https://github.com/rucha97/mask-detector)
-- Generated a new dataset of 4k images by collecting, pre-processing and performing data-augmentation of facial images.
+![face_mask](https://github.com/rucha97/rucha97.github.io/assets/22785512/96c18267-2c52-4795-9d6b-7f2bf7d69085)
+
+- Generated a new dataset of 4k images by collecting, pre-processing and performing data augmentation of facial images.
 - Trained and fine-tuned a CNN for facial mask detection and type classification.
 - Eliminated bias and improved model performance using k-fold cross-validation.
  
@@ -41,6 +46,7 @@
 
 ---
 #### Book Recommendation System: [Github](https://github.com/rucha97/book-recommendation-system)
+
 - Developed a recommender using goodbooks dataset of 10k records to suggest books of interest and predict user ratings.
 - Used Apache PySpark for Content-based and Collaborative Filtering approaches, including one-hot encoding and matrix factorization for latent feature identification.
 
