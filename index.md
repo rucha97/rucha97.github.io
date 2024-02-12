@@ -1,5 +1,13 @@
-<a href="https://www.linkedin.com/in/rucha-shende/" class="header-link" target="_blank">LinkedIn</a>
-<a href="https://github.com/rucha97" class="header-link github" target="_blank">GitHub</a>
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/rucha-shende/" title="LinkedIn" rel="external nofollow noopener" target="_blank">
+  <i class="fab fa-linkedin"></i>
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/rucha97" title="GitHub" rel="external nofollow noopener" target="_blank">
+  <i class="fab fa-github"></i>
+</a>
+
 
 ---
 
