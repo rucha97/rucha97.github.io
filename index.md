@@ -4,10 +4,10 @@
 #### 3D Reconstruction of Heritage Buildings
 ![image](https://github.com/rucha97/rucha97.github.io/assets/22785512/21e80c90-e382-4399-99fe-3705ec1bec4c)
 
-
-- My research is centered on developing a novel automated workflow for generating Level of Detail (LOD) models of mid-sized buildings. This workflow incorporates both traditional and deep learning-based computer vision techniques and models.
-- My work extends to collecting UAV data heritage buildings in Montreal, generating point clouds, and their subsequent post-processing. The dataset is soon to be open-sourced, aiming to facilitate further research.
-- The developed pipeline has been tested and evaluated on the collected dataset, playing a crucial role in the conservation and digital twinning of heritage structures, aiming to contribute towards fostering a sustainable digital future.
+- My research is centered on developing novel blueprint workflow for capturing a medium sized building from acquisition using a drone to Level of Detail 3 (LOD3) standard that doesn’t require high level expertise in building modelling.
+- This workflow incorporates both traditional and deep learning-based computer vision techniques and models.
+- My work extends to generating a UAV dataset heritage buildings in Montreal involving data collection and its subsequent post-processing.   It is soon to be open-sourced, aiming to facilitate further research.
+- The developed pipeline has been tested and evaluated on the collected data, playing a crucial role in the conservation and digital twinning of heritage structures, aiming to contribute towards fostering a sustainable digital future.
 
   [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)  [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)](#)
 
