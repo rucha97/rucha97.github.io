@@ -47,6 +47,13 @@
 <body>
    <div class="wrapper">
       <header>
+               
+         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+         {% if site.logo %}
+         <img src="{{site.logo | relative_url}}" alt="Logo" max-width: 70%;>
+         {% endif %}
+
+
         <div class="social-links">
           <!-- LinkedIn -->
           <a href="https://www.linkedin.com/in/rucha-shende/" title="LinkedIn" rel="external nofollow noopener" target="_blank">
@@ -58,11 +65,7 @@
             <i class="fab fa-github"></i>
           </a>
         </div>
-               
-         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-         {% if site.logo %}
-         <img src="{{site.logo | relative_url}}" alt="Logo" max-width: 70%;>
-         {% endif %}
+         
          <p>{{ site.description | default: site.github.project_tagline }}</p>
          {% if site.github.is_project_page %}
          <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
