@@ -6,7 +6,7 @@
 
 - My research is centered on developing novel blueprint workflow for capturing a medium sized building from acquisition using a drone to Level of Detail 3 (LOD3) standard that doesn’t require high level expertise in building modelling.
 - This workflow incorporates both traditional and deep learning-based computer vision techniques and models.
-- My work extends to generating a UAV dataset heritage buildings in Montreal involving data collection and its subsequent post-processing.   It is soon to be open-sourced, aiming to facilitate further research.
+- My work extends to generating a multi-modal UAV dataset of heritage buildings in Montreal involving data collection and its subsequent post-processing.   It is soon to be open-sourced, aiming to facilitate further research.
 - The developed pipeline has been tested and evaluated on the collected data, playing a crucial role in the conservation and digital twinning of heritage structures, aiming to contribute towards fostering a sustainable digital future.
 
   [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)  [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)](#)
